@@ -1,0 +1,63 @@
+A folder named Lessons was provided to you under your file-mgmt directory. This folder also contains some folders and dummy files. 
+When instructed for taking screenshots save the screenshots in your device with appropriate name and show those to mentor/leader. For example, if you take a screenshot for task 4 you can name the image with task4 or task_4.
+
+Tasks to complete:
+Complete the following tasks:
+
+1. Open the Lessons folder. Within this folder create a folder.
+
+2. Rename the newly created folder as "Tasks". Take a screenshot of the screen showing the renamed folder. Save and show the screenshot to your mentor. 
+
+3. Open the Tasks folder and create a python file using the Python 3 option from launcher.
+
+4. Rename the newly created python file as "Task4". Full file name should look like "Task4.ipynb". Take a screenshot of the screen showing the renamed file under "Tasks" folder and save and show it to the mentor.
+
+5. Explore "Lessons" folder and it's subfolders and find "Task5.ipynb" file. Open the file and save and show a screenshot to the mentor.
+
+6. Make a copy of this "Task5.ipynb" file into the "Tasks" folder that you’ve created by completing task 1 and 2. Rename the file as Task6. Full file name should look like Task6.ipynb. Provide a screenshot of your Tasks folder showing the Task6.ipynb file in it.
+
+7. Explore Lessons folder and it's subfolders and find "Notebook2.ipynb". Move file under "Chapter2" folder. Take a screenshot showing that "Notebook2.ipynb" is under "Chapter2" folder and save and show it to the mentor.
+
+8. Explore "Lessons" folder and it's subfolders and find the "Chapter3" folder. Move the folder under "Lessons" folder. Take a screenshot showing that "Chapter3" is under "Lessons" folder and save and show it to the mentor.
+
+9. Explore "Lessons" folder and it's subfolders and find the folder named as "Untitled-Folder". Delete the folder. Take a screenshot after deleting showing that this folder is no longer under it’s parent folder.
+
+10. After completing task 1-9, pick paper and pen/pencil and draw the full file structure of the Lessons folder and everything it contains. Show this to your mentor.
+
+
+
+Additional Tasks to complete:
+
+Suppose you were given the following file structure in your root folder. Write answers for the following questions on a paper and show it to your mentor.
+
+root
+	Lessons
+		Chapter1
+			Notebook1.ipynb
+			Task5.ipynb
+			Dataset1
+				Ch1.csv
+		Chapter2
+			Notebook2.ipynb
+			Dataset2
+				Ch2.csv
+		Chapter3
+			Ch3.csv
+		Tasks
+			Task4.ipynb
+			Task6.ipynb
+
+I.	If your current directory is Chapter1 what is the relative path for Ch1.csv file?
+Ans:
+
+II.	If your current directory is Chapter1 what is the relative path for Ch3.csv file?
+Ans:
+
+III.	If your current directory is Chapter1 what is the relative path for Ch2.csv file?
+Ans:
+
+IV.	What is the absolute path for Ch1.csv file?
+Ans:
+
+V.	What is the absolute path for Task4.ipynb?
+Ans:
